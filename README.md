@@ -1,0 +1,1 @@
+This is a program that simulates the game rock paper scissors.
